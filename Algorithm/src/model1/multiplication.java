@@ -1,5 +1,5 @@
-/**
- * @ClassName: multiplication
+package model1; /**
+ * @ClassName: model1.multiplication
  * @Description:
  * @author: 千山
  * @date: 2023-03-21 16:05
@@ -8,7 +8,7 @@
 
 /**
  *
- * @ClassName: multiplication
+ * @ClassName: model1.multiplication
  * @Description:
  * @author: 千山
  * @date: 2023-03-21 16:05
